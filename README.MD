@@ -2,6 +2,11 @@
 
 --- 
 
+installation : download the [.icls file](https://github.com/fatcheetah/Rider_vs_dark_plus-theme/blob/master/VS_Dark_Plus.icls) and drag over your Rider.
+Then select it from the color-scheme options in settings.
+
+---
+
 ## Examples
 
 + C#
